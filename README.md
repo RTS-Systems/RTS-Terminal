@@ -25,8 +25,6 @@ The project focuses on combining a professional trading interface with a flexibl
 
 RTS Terminal is supported by a distributed backend architecture with dedicated services for authentication, data processing, and application updates.
 
-The infrastructure incorporates Python, Docker, Kubernetes, PostgreSQL, Redis, and HTTPS/WSS communication.
-
 ## Project Status
 
 **Active Development**
