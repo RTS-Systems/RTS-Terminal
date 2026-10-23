@@ -33,6 +33,20 @@ The infrastructure incorporates Python, Docker, Kubernetes, PostgreSQL, Redis, a
 
 RTS Terminal is continuously being developed, tested, and improved. Some capabilities are experimental or not yet production-ready.
 
+## Availability & Beta Testing
+
+**RTS Terminal is currently available exclusively for macOS.**
+
+The application is still under active development, and access is currently limited to beta testing.
+
+We welcome individuals interested in testing RTS Terminal, exploring its capabilities, and providing feedback to help improve the platform.
+
+**Interested in becoming a beta tester?**
+
+Contact us at **[office@rts-systems.com](mailto:office@rts-systems.com)** with the subject **RTS Terminal – Beta Testing Request**.
+
+Beta testing access is subject to availability and approval.
+
 ## Vision
 
 The long-term goal is to build an independent, extensible trading ecosystem that combines professional market analysis, trading infrastructure, and financial management within a consistent desktop experience.
@@ -110,6 +124,7 @@ Multilingual login interface with backend-supported authentication.
 ## Links
 
 - **Official Website:** https://www.rts-systems.com
+- **Beta Testing Inquiries:** [marketing@rts-systems.com](mailto:office@rts-systems.com)
 - **Project:** RTS Terminal
 - **Organization:** RTS Systems
 
