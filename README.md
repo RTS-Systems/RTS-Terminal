@@ -2,6 +2,8 @@
 
 **A modern, modular trading and financial analytics platform.**
 
+https://www.rts-systems.com/
+
 RTS Terminal is an independently developed desktop application designed to bring market analysis, trading workflows, portfolio monitoring, and financial analytics into a unified environment.
 
 The project focuses on combining a professional trading interface with a flexible, modular architecture and a self-hosted backend infrastructure.
